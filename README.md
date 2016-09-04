@@ -12,7 +12,7 @@ Useage:
  
  waste your CPU and RAM resources
 
- if you want to clean their chilad process,just write someline in foo.txt like next:
+ if you want to clean their children process,just write someline in foo.txt like next:
 
  Thuder.exe:ThuderPaltform.exe
  BaiduYunxxx.exe:baiduPaltformxxx.exe
